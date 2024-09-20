@@ -1,4 +1,4 @@
-package ru.academits.lesson3D;
+package ru.academits.lesson3;
 
 public class NumbersInLine10 {
     public static void main(String[] args) {
