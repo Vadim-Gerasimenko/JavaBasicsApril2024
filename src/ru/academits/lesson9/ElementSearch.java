@@ -1,4 +1,4 @@
-package ru.academits.lesson9;
+package academits.lesson9;
 
 public class ElementSearch {
     public static int getElementIndex(int[] array, int element) {

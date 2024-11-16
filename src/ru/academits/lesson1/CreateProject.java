@@ -1,4 +1,4 @@
-package ru.academits.lesson1;
+package academits.lesson1;
 
 public class CreateProject {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ru.academits.lesson9;
+package academits.lesson9;
 
 public class ArrayReverse {
     public static void reverseArray(int[] array) {

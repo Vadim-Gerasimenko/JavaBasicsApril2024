@@ -1,4 +1,4 @@
-package ru.academits.lesson6;
+package academits.lesson6;
 
 public class Functions {
     public static double get3XPlus4Y(double number1, double number2) {

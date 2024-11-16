@@ -1,4 +1,4 @@
-package ru.academits.lesson5;
+package academits.lesson5;
 
 import java.util.Random;
 import java.util.Scanner;

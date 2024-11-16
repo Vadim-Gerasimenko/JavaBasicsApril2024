@@ -1,4 +1,4 @@
-package ru.academits.lesson4;
+package academits.lesson4;
 
 public class While {
     public static void main(String[] args) {

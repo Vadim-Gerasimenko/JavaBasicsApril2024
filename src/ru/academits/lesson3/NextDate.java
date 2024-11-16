@@ -1,4 +1,4 @@
-package ru.academits.lesson3;
+package academits.lesson3;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

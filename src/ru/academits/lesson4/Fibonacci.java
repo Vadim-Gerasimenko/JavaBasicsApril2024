@@ -1,4 +1,4 @@
-package ru.academits.lesson4;
+package academits.lesson4;
 
 import java.util.Scanner;
 

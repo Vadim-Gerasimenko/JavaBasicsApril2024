@@ -1,4 +1,4 @@
-package ru.academits.lesson2;
+package academits.lesson2;
 
 public class Circle {
     public static void main(String[] args) {

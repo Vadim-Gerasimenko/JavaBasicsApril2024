@@ -1,4 +1,4 @@
-package ru.academits.lesson9;
+package academits.lesson9;
 
 public class CheckingSort {
     public static boolean isAscendingSort(int[] array) {

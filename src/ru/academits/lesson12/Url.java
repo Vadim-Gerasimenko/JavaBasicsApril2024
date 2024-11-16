@@ -1,4 +1,4 @@
-package ru.academits.lesson12;
+package academits.lesson12;
 
 public class Url {
     private static final String PROTOCOL_DELIMITER = "://";

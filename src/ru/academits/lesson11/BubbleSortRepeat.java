@@ -1,4 +1,4 @@
-package ru.academits.lesson11;
+package academits.lesson11;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package ru.academits.lesson7;
+package academits.lesson7;
 
 public class Contact {
     private String firstName;

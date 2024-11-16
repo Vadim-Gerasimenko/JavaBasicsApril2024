@@ -1,4 +1,4 @@
-package ru.academits.lesson6;
+package academits.lesson6;
 
 public class Overload {
     public static int getTypeSize(byte number) {

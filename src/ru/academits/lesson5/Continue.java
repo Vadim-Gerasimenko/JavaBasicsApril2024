@@ -1,4 +1,4 @@
-package ru.academits.lesson5;
+package academits.lesson5;
 
 public class Continue {
     public static void main(String[] args) {
