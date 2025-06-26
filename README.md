@@ -11,6 +11,7 @@
 9. [Массивы. Отладка. Аргументы программы](#lesson9)
 10. [Рекурсия. Бинарный поиск](#lesson10)
 11. [Сортировки](#lesson11)
+12. [Работа со строками. Работа с файлами](#lesson12)
 
 
 <h2 id="lesson1">Занятие 1. Введение</h2>
@@ -648,3 +649,45 @@ $$
 > ***Курсовая задача*** <span id="heap-sort">[***Пирамидальная сортировка***](src/ru/academits/lesson11/HeapSort.java):</span>
 
       - Реализовать пирамидальную сортировку
+
+
+<h2 id="lesson12">Занятие 12. Работа со строками. Работа с файламик</h2>
+
+[*Учебная директория*](src/ru/academits/lesson12)
+
+### Задачи:
+
+Базовые задачи:
+1. [StringBuilder](#string-builder)
+2. [URL](#url)
+3. [Разбиение строки](#string-split)
+4. [Перевод файла в верхний регистр](#convert-file-to-upper-case)
+5. [Число вхождений](#occurences-count)
+
+
+> *Базовая задача* <span id="string-builder">[***StringBuilder***](src/ru/academits/lesson12/BuildString.java):</span>
+
+      - Создать строку из чисел от 1 до 100 через запятую при помощи StringBuilder
+
+> *Базовая задача* <span id="url">[***URL***](src/ru/academits/lesson12/Url.java):</span>
+
+      Написать функцию, которая вычленяет из URL адреса имя сервера:
+      Для строки вида http://SomeServerName/abcd/dfdf.htm?dfdf=dfdf вычленить SomeServerName
+
+      - Строка может начинаться не обязательно с http, но и с https или чего-то другого
+      - Учесть случай, когда после :// больше нет слэша: http://SomeServerName
+
+> *Базовая задача* <span id="string-split">[***Разбиение строки***](src/ru/academits/lesson12/StringSplit.java):</span>
+
+      - Разбить строку "1, 2, 3, 4, 5" и получить массив из этих чисел и найти их сумму
+
+> *Базовая задача* <span id="convert-file-to-upper-case">[***Перевод файла в верхний регистр***](src/ru/academits/lesson12/ConvertFileToUpperCase.java):</span>
+
+      - Написать программу, которая читает строки файла, 
+        переводит их в верхний регистр и записывает результат во второй файл
+
+> *Базовая задача* <span id="occurences-count">[***Число вхождений***](src/ru/academits/lesson12/OccurrencesCount.java):</span>
+
+      - Прочитать текст из файла, и написать функцию, которая считает количество 
+        вхождений некоторой строки в этот текст без учета регистра символов
+
